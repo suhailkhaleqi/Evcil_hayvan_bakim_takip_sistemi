@@ -72,6 +72,6 @@ pet_care/
 
 
 ## 🌐 Demo
-[▶️ Proje Videosu](https://youtu.be/örnek-link)  
+[▶️ Proje Videosu][(https://youtu.be/örnek-link)](https://youtu.be/OPj2La_bzXk)  
 
 
